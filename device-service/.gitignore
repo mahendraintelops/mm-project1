@@ -1,0 +1,4 @@
+device-service
+../.idea
+.devspace
+/sqlite.db
